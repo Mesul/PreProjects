@@ -7,7 +7,7 @@ int	main(void)
 	int num;
 	int i;
 
-	printf("Enter any number fromm 1-100, all inclusive!\n");
+	printf("Enter any number from 1-100, all inclusive then press ENTER!\n");
 	scanf("%d", &num);
 	
 	if ((1 <= num) && (num <= 100))
